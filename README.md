@@ -14,8 +14,15 @@ flattening the JSON.
    Currently, it looks for a `data` directory in the current directory
    and writes to a `output.csv` file in the same directory.
 1. Run the script:
-   a. You can run it directly from the command line:
-      ```
+   * You can open this folder in VS Code, choose `main.py` file and then
+     choose `Run` -> `Start Debugging` and select `Python: Current File`
+     from the dropdown.
+   * You can also run it directly from the command line:
+      ```bash
       python main.py
       ```
-   b. You can run it by importing into your Python IDE, like Python IDLE.
+
+## License
+
+This code is licensed under the MIT license. See the `LICENSE` file for
+more information.
